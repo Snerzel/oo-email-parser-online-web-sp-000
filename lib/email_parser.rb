@@ -10,9 +10,9 @@ class EmailAddressParser
 #   csv_emails.split(/\s*,\s*/)
 #end
 
-#  def parse
-#    csv_emails.split(", ")
-#    end
+  def parse
+    csv_emails.split(", ")
+   end
 
 
 end
