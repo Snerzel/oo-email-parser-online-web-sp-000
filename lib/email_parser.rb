@@ -11,7 +11,7 @@ class EmailAddressParser
 #end
 
   def parse
-    csv_emails.split(/\s*,\s*/)
+    csv_emails.split(/,?\s/)
    end
 
 
