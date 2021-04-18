@@ -6,7 +6,7 @@ class EmailParser
     @csv_emails = csv_emails
   end
 
-# This will not work because "emails2" below will not be properly parsed
+
 # def parse
 #   csv_emails.split(/\s*,\s*/)
 # end
