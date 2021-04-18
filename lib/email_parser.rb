@@ -11,4 +11,4 @@ class EmailParser
    csv_emails.split(/\s*,\s*/)
  end
 
-  
+  end
